@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">benchmarkable</string>
+    <string name="sceneryDescription">東大寺，位於日本奈良縣奈良市。東大寺，位於日本奈良縣奈良市。東大寺，位於日本奈良縣奈良市。東大寺，位於日本奈良縣奈良市。東大寺，位於日本奈良縣奈良市。東大寺，位於日本奈良縣奈良市。東大寺，位於日本奈良縣奈良市。</string>
+    <string name="dummy">dummy</string>
+    <string name="fav">Favoriate</string>
+    <string name="next">Next</string>
+    <string name="location">406-1 Zoshicho, Nara, 630-8211日本</string>
+    <string name="locationTitle">地址</string>
+    <string name="districtTitle">地區</string>
+    <string name="district">奈良</string>
+    <string name="sceneryName">日本東大寺</string>
+</resources>
